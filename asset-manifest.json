@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/react_demo_app/static/css/main.a617e044.chunk.css",
-    "main.js": "/react_demo_app/static/js/main.5c461733.chunk.js",
-    "main.js.map": "/react_demo_app/static/js/main.5c461733.chunk.js.map",
-    "runtime-main.js": "/react_demo_app/static/js/runtime-main.a673ea29.js",
-    "runtime-main.js.map": "/react_demo_app/static/js/runtime-main.a673ea29.js.map",
+    "main.js": "/react_demo_app/static/js/main.10dbbd8e.chunk.js",
+    "main.js.map": "/react_demo_app/static/js/main.10dbbd8e.chunk.js.map",
+    "runtime-main.js": "/react_demo_app/static/js/runtime-main.0f445936.js",
+    "runtime-main.js.map": "/react_demo_app/static/js/runtime-main.0f445936.js.map",
     "static/css/2.f10d0ec2.chunk.css": "/react_demo_app/static/css/2.f10d0ec2.chunk.css",
-    "static/js/2.ea314bca.chunk.js": "/react_demo_app/static/js/2.ea314bca.chunk.js",
-    "static/js/2.ea314bca.chunk.js.map": "/react_demo_app/static/js/2.ea314bca.chunk.js.map",
-    "static/js/3.eecb3544.chunk.js": "/react_demo_app/static/js/3.eecb3544.chunk.js",
-    "static/js/3.eecb3544.chunk.js.map": "/react_demo_app/static/js/3.eecb3544.chunk.js.map",
+    "static/js/2.22152d47.chunk.js": "/react_demo_app/static/js/2.22152d47.chunk.js",
+    "static/js/2.22152d47.chunk.js.map": "/react_demo_app/static/js/2.22152d47.chunk.js.map",
+    "static/js/3.49e604a6.chunk.js": "/react_demo_app/static/js/3.49e604a6.chunk.js",
+    "static/js/3.49e604a6.chunk.js.map": "/react_demo_app/static/js/3.49e604a6.chunk.js.map",
     "index.html": "/react_demo_app/index.html",
     "static/css/2.f10d0ec2.chunk.css.map": "/react_demo_app/static/css/2.f10d0ec2.chunk.css.map",
     "static/css/main.a617e044.chunk.css.map": "/react_demo_app/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.ea314bca.chunk.js.LICENSE.txt": "/react_demo_app/static/js/2.ea314bca.chunk.js.LICENSE.txt",
+    "static/js/2.22152d47.chunk.js.LICENSE.txt": "/react_demo_app/static/js/2.22152d47.chunk.js.LICENSE.txt",
     "static/media/notifications.css": "/react_demo_app/static/media/notification.c5d9251e.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.a673ea29.js",
+    "static/js/runtime-main.0f445936.js",
     "static/css/2.f10d0ec2.chunk.css",
-    "static/js/2.ea314bca.chunk.js",
+    "static/js/2.22152d47.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.5c461733.chunk.js"
+    "static/js/main.10dbbd8e.chunk.js"
   ]
 }
